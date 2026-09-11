@@ -1,0 +1,29 @@
+# Sanjay Tutoring — GitHub Pages Package
+
+## Upload
+Upload **all files and the `assets` folder** to your GitHub repository.
+
+The structure should be:
+
+sanjay-tutoring/
+├── index.html
+└── assets/
+    ├── python.svg
+    ├── java.svg
+    ├── sql.svg
+    ├── spring-boot.svg
+    ├── computer-science.svg
+    ├── mathematics.svg
+    ├── interview.svg
+    ├── projects.svg
+    ├── whatsapp.svg
+    ├── email.svg
+    ├── linkedin.svg
+    └── instagram.svg
+
+Then enable GitHub Pages:
+Settings → Pages → Deploy from a branch → main → / (root).
+
+## Important
+The original `Sanjay_Tutoring_New_Website.html` was not modified.
+This package contains a separate improved `index.html` plus local visual assets.
